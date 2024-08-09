@@ -44,7 +44,7 @@
   border-bottom: 3px solid #000;
 }
 
-.p_footer p{
+.p_footer p, .signatures2 p{
   padding: 0;
   margin: 0;
 }
@@ -61,7 +61,6 @@
 }
 
 .signatures2 p{
-  padding: 0;
-  margin: 0;
   width: 48%;
+  font-size: 80%;
 }
